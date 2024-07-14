@@ -1,0 +1,24 @@
+{
+  "data": {
+    "amazon": {
+      "visit": "https://www.amazon.in/",
+      "searchBox": "#twotabsearchtextbox",
+      "priceTag": ".a-price-whole",
+      "staticTexts": {
+        "letUsC": "Let Us C Solutions",
+        "letUsCSolutions": "Let Us C Solutions -: Authenticate Solutions of Let US C Exercise (English Edition)"
+      }
+    },
+    "flipkart": {
+      "visit": "https://www.flipkart.com/",
+      "searchBox": ".Pke_EE",
+      "priceTag": ".hl05eU",
+      "staticTexts": {
+        "letUsCSolutions": "Let Us C Solutions: Authenticate Solutions of Let US C"
+      }
+    },
+    "keyStrokes": {
+      "enter": "{enter}"
+    }
+  }
+}
